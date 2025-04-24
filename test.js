@@ -6,4 +6,5 @@ let n =false;
 let j =1;
 let k = 0;
 var a ="test";
+var check ="gitignore";
 
